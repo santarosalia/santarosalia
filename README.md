@@ -13,7 +13,7 @@
 ### 프로젝트
 | 프로젝트 | 설명 | 기술 |
 | --- | --- | --- |
-| [테트리스](https://tetr-sigma.vercel.app/) | 테트리스 | React, Nest |
+| [테트리스](https://tetr-sigma.vercel.app/) | 테트리스 | React, Nest, Socket.io |
 | [홀심타이머](https://holy-symbol-timer.vercel.app/) | 타이머 | Next.js, Electron |
 
 - 이메일: mdc@kakao.com
